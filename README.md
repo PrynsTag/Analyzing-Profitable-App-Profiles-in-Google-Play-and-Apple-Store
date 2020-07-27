@@ -9,6 +9,8 @@ In this project, we are hired as a Data Analyst for a company that makes applica
 ## Summary of Results
 After careful cleaning, prepping and analysis, the two factors we heavily focused on is **Number of Installs** and **Number of Reviews** since we found no evidence of **Number of Apps in that genre** that are linked to being profitable. All the findings for a popular and profitable apps that we get have more installs and reviews which are connected to our goal.
 
-We decided to invest in Gaming App since this genre has the least skew of installs and reviews from tech giants unlike **Social Networking** and **Communication** Apps. Also, Gaming Genre has a wide sub-genre within it which means more genres to explore hence we will give this analysis to the devs to decide what genre of games will be achievable for them.
+We decided to invest in Gaming App and extend our Free Application in Paid Application with added games like how to cut nails, facial massages, waxing of hair, all the mesmerizing stuff to add and chunk that all in one app or different ones, the developers are the ones that going to decide this.
+
+Throughout the Analysis we found out why are different companies even small ones are in the Application Industry since we found out that category and genre both paid and free, Application in **Games** has one of the most number of installs and reviews and this is a good indication of a thriving, profitable app.
 
 [Click here to view the jupyter notebook file in a new tab](https://nbviewer.jupyter.org/github/PrynsTag/Analyzing-Profitable-App-Profiles-in-Google-Play-and-Apple-Store/blob/master/first-guided-project.ipynb)
